@@ -1,0 +1,14 @@
+{
+  "social": {
+    "github": "https://github.com/geek-prateek",
+    "linkedin": "https://linkedin.com/in/geekprateek",
+    "twitter": "https://x.com/Kumarprateek18",
+    "youtube": "https://youtube.com/@geekprateek",
+    "LinkTree": "https://linktr.ee/geekprateek"
+  },
+  "form": {
+    "title": "Connect & Collaborate",
+    "description": "Open to collaboration, freelance opportunities, or tech discussions. If you have an idea or just want to connect, don’t hesitate to get in touch.",
+    "successMessage": "Thank you for your message. I'll get back to you soon!"
+  }
+} 

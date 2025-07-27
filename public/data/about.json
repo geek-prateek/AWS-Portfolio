@@ -1,0 +1,29 @@
+{
+  "stats": [
+    {
+      "number": "30",
+      "text": "Projects\nCompleted"
+    },
+    {
+      "number": "1",
+      "text": "Years of Experience\nin Software Development"
+    }
+  ],
+  "aboutText": "I discovered my passion for development in my first year of college, after building a real-world website for ABS Tours and Travels using HTML, CSS, and JavaScript. Seeing it live on Hostinger sparked my interest, and since then, I’ve been driven to explore full-stack development, automation, and scalable system design.",
+  "cv": {
+    "downloadUrl": "https://drive.google.com/file/d/1ZILdQNq1sA0pdIfKWViniUWLH_5NafQR/view",
+    "buttonText": "Download CV"
+  },
+  "skills": [
+    { "name": "Frontend Development (ReactJS, HTML, CSS, JavaScript)", "percentage": 85 },
+    { "name": "Frontend Frameworks (AngularJS)", "percentage": 75 },
+    { "name": "UI Toolkits & Mobile Platforms (Bootstrap, PrimeNG, Ionic)", "percentage": 70 },
+    { "name": "Backend Development (Java, C#)", "percentage": 80 },
+    { "name": "Scripting & Automation (Python)", "percentage": 82 },
+    { "name": "Databases (MySQL)", "percentage": 70 },
+    { "name": "Version Control (Git, GitHub)", "percentage": 90 },
+    { "name": "Linux & System Commands", "percentage": 65 },
+    { "name": "Data Structures & Algorithms", "percentage": 70 },
+    { "name": "AI-Powered Tools & Integrations", "percentage": 78 }
+  ]
+} 

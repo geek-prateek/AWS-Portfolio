@@ -1,0 +1,14 @@
+{
+  "name": "Prateek Kumar",
+  "title": "Software Developer",
+  "description": "I'm passionate about building scalable, secure, and high-performance applications. I architect reliable systems, automate workflows, and deliver clean, efficient code that solves real-world problems.",
+  "profileImage": "/data/profile.jpg",
+  "social": {
+    "github": "https://github.com/geek-prateek",
+    "linkedin": "https://linkedin.com/in/geekprateek"
+  },
+  "cv": {
+    "downloadUrl": "https://drive.google.com/file/d/1ZILdQNq1sA0pdIfKWViniUWLH_5NafQR/view",
+    "buttonText": "Download CV"
+  }
+} 

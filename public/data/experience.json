@@ -1,0 +1,46 @@
+{
+  "experiences": [
+    {
+      "id": 1,
+      "title": "Software Developer",
+      "company": "BrainPayroll",
+      "location": "Ahmedabad, India",
+      "period": "Dec 2023 - Present",
+      "description": "Developing and maintaining software modules for payroll and HR solutions with a focus on AI integration. Working across the full stack using Angular, C#, and MySQL while collaborating with cross-functional teams using Git and Agile methodologies.",
+      "achievements": [
+        "Integrated AI modules to enhance automation in payroll workflows",
+        "Contributed to scalable UI components using Angular",
+        "Refactored backend logic in C# improving code maintainability and performance"
+      ],
+      "technologies": ["Angular", "C#", "MySQL", "GitHub", "AI APIs"]
+    },
+    {
+      "id": 2,
+      "title": "ReactJS Intern",
+      "company": "Cloud Counselage Pvt. Ltd.",
+      "location": "Remote",
+      "period": "July 2023 - Sept 2023",
+      "description": "Contributed to feature enhancements and bug fixes for a LinkedIn clone web application using ReactJS. Participated in the full software development lifecycle including requirement analysis, implementation, testing, and deployment.",
+      "achievements": [
+        "Enhanced UI/UX and added new features improving user engagement by 20%",
+        "Fixed critical rendering bugs to improve cross-browser compatibility",
+        "Improved state management using React hooks and modular components"
+      ],
+      "technologies": ["ReactJS", "JavaScript", "HTML", "CSS", "Git"]
+    }
+  ],
+  "education": [
+  {
+    "title": "Bachelor of Technology in Computer Science and Engineering",
+    "institution": "Parul Institute of Technology, Vadodara",
+    "period": "2020 - 2024",
+    "description": "Graduated with a CGPA of 8.04/10.00. Focused on core computer science subjects including data structures, algorithms, web development, database systems, and software engineering. Completed hands-on projects in AI, full-stack development, and cloud integration."
+  },
+  {
+    "title": "Higher Secondary Education (Science Stream)",
+    "institution": "Darbhanga Public School, Darbhanga",
+    "period": "2019 - 2020",
+    "description": "Completed senior secondary education with Physics, Chemistry, Mathematics, and Computer Science as major subjects. Developed foundational knowledge in logic, problem-solving, and analytical reasoning."
+  }
+]
+} 
