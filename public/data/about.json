@@ -10,10 +10,6 @@
     }
   ],
   "aboutText": "I discovered my passion for development in my first year of college, after building a real-world website for ABS Tours and Travels using HTML, CSS, and JavaScript. Seeing it live on Hostinger sparked my interest, and since then, I’ve been driven to explore full-stack development, automation, and scalable system design.",
-  "cv": {
-    "downloadUrl": "https://drive.google.com/file/d/1ZILdQNq1sA0pdIfKWViniUWLH_5NafQR/view",
-    "buttonText": "Download CV"
-  },
   "skills": [
     { "name": "Frontend Development (ReactJS, HTML, CSS, JavaScript)", "percentage": 85 },
     { "name": "Frontend Frameworks (AngularJS)", "percentage": 75 },

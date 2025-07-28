@@ -1,14 +1,16 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { Download, Briefcase, GraduationCap } from 'lucide-react'
+import { Eye } from 'lucide-react'
 import { useEffect, useState } from 'react'
+import { useRouter } from 'next/navigation'
 import { loadJsonData, AboutData } from '@/lib/dataLoader'
 import { ExperienceData } from '@/lib/dataLoader'
 
-const GITHUB_USERNAME = 'geek-prateek' // <-- Replace with your GitHub username
+const GITHUB_USERNAME = 'geek-prateek'
 
 const About = () => {
+  const router = useRouter()
   const [aboutData, setAboutData] = useState<AboutData | null>(null)
   const [loading, setLoading] = useState(true)
   // Add state for dynamic stats
@@ -91,17 +93,11 @@ const About = () => {
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed mb-8">
               {aboutData?.aboutText || "I'm passionate about applying hands-on learning to real-world projects"}
             </p>
-            <div className="btn-con">
-              {aboutData?.cv?.downloadUrl && aboutData?.cv?.buttonText && (
-                  <a
-                    href={aboutData.cv.downloadUrl}
-                    download
-                    className="btn-primary flex items-center gap-2 px-4 py-3 text-lg"
-                  >
-                    <Download size={20} />
-                    {aboutData.cv.buttonText}
-                  </a>
-                )}
+            <div className="btn-con flex gap-4">
+              <button className="btn-primary flex items-center gap-2 px-4 py-3 text-lg" onClick={() => router.push('/resume')}>
+                <Eye size={20} />
+                View Resume
+              </button>
             </div>
           </motion.div>
 
