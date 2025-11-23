@@ -9,7 +9,7 @@
       "text": "Years of Experience\nin Software Development"
     }
   ],
-  "aboutText": "I discovered my passion for development in my first year of college, after building a real-world website for ABS Tours and Travels using HTML, CSS, and JavaScript. Seeing it live on Hostinger sparked my interest, and since then, I’ve been driven to explore full-stack development, automation, and scalable system design.",
+  "aboutText": "I discovered my passion for development in my first year of college, after building a real-world website for ABS Tours and Travels using HTML, CSS, and JavaScript. Seeing it live on Hostinger sparked my interest, and since then, I’ve been driven to explore full-stack development, automation, and scalable system design. \n Today, I serve as a software developer and strategically execute select freelance initiatives through my tech brand, NGVP.",
   "skills": [
     { "name": "Frontend Development (ReactJS, HTML, CSS, JavaScript)", "percentage": 85 },
     { "name": "Frontend Frameworks (AngularJS)", "percentage": 75 },
