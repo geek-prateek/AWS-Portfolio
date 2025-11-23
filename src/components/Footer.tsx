@@ -25,7 +25,7 @@ const Footer = () => {
             <p className="text-gray-400 text-sm">
               © {currentYear} Portfolio. Designed with{' '}
               <Heart className="inline w-4 h-4 text-red-500" /> by{' '}
-              <span className="text-primary-400">Prateek Kumar</span>
+              <span className="text-primary-400">Prateek Kumar | Founder of NGVP</span>
             </p>
             <button
               onClick={scrollToTop}
