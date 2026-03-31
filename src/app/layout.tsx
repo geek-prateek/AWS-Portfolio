@@ -9,6 +9,9 @@ export const metadata: Metadata = {
   description: 'A modern personal portfolio showcasing my work, skills, and experience.',
   keywords: ['portfolio', 'developer', 'web development', 'AWS', 'cloud'],
   authors: [{ name: 'Prateek Kumar' }],
+  icons: {
+    icon: '/data/profile.jpg',
+  },
 }
 
 export const viewport: Viewport = {

@@ -32,7 +32,7 @@ export default function ResumePage() {
             <div className="flex flex-wrap gap-2 mt-2 text-xs text-gray-600">
               <span className="flex items-center gap-1"><svg className="w-4 h-4 inline" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" /></svg> {experiences[0].location}</span>
               <span className="flex items-center gap-1"><svg className="w-4 h-4 inline" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M16 12a4 4 0 01-8 0m8 0a4 4 0 01-8 0m8 0v4a4 4 0 01-8 0v-4m8 0V8a4 4 0 00-8 0v4" /></svg> prateek.dbg@gmail.com</span>
-              <span className="flex items-center gap-1"><svg className="w-4 h-4 inline" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8m-9 4v8" /></svg> (+91) 732-093-4131</span>
+    
             </div>
             <div className="flex flex-wrap gap-4 mt-2 text-xs">
               <a href={personal.social.linkedin} className="text-blue-700 hover:underline">LinkedIn</a>
