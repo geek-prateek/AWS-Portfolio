@@ -1,14 +1,14 @@
 {
   "name": "Prateek Kumar",
-  "title": "Software Developer",
-  "description": "I'm passionate about building scalable, secure, and high-performance applications. I architect reliable systems, automate workflows, and deliver clean, efficient code that solves real-world problems.",
+  "title": "Software Engineer",
+  "description": "Specializing in AI & Data Science at IIT Patna. I architect scalable enterprise systems and deliver production-grade, AI-driven solutions that solve complex real-world problems.",
   "profileImage": "/data/profile.jpg",
   "social": {
     "github": "https://github.com/geek-prateek",
     "linkedin": "https://linkedin.com/in/geekprateek"
   },
   "cv": {
-    "downloadUrl": "https://drive.google.com/file/d/1TQVo5GFI4tAe2utUuf8qHElG6aOFLEWz/view",
+    "downloadUrl": "https://drive.google.com/file/d/19sajXwGQbE5gTUCCaO7cpG4VbY6eysNh/view",
     "buttonText": "Download CV"
   }
 } 

@@ -31,16 +31,16 @@
   ],
   "education": [
   {
+    "title": "Master of Technology in AI and Data Science",
+    "institution": "Indian Institute of Technology (IIT), Patna",
+    "period": "2026 - 2028",
+    "description": "Currently pursuing a specialized M.Tech focused on Artificial Intelligence and Data Science. The curriculum emphasizes scalable AI architecture, Machine Learning, and Deep Learning techniques, along with hands-on projects and research in cutting-edge AI applications."
+  },
+  {
     "title": "Bachelor of Technology in Computer Science and Engineering",
     "institution": "Parul Institute of Technology, Vadodara",
     "period": "2020 - 2024",
     "description": "Graduated with a CGPA of 8.04/10.00. Focused on core computer science subjects including data structures, algorithms, web development, database systems, and software engineering. Completed hands-on projects with version control using Git and GitHub."
-  },
-  {
-    "title": "Higher Secondary Education (Science Stream)",
-    "institution": "Darbhanga Public School, Darbhanga",
-    "period": "2019 - 2020",
-    "description": "Completed senior secondary education with Physics, Chemistry and Mathematics as major subjects. Developed foundational knowledge in logic, problem-solving, and analytical reasoning through coursework."
   }
 ]
 } 
